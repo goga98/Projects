@@ -1,0 +1,9 @@
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\bin\Debug\Employee.Repository.dll
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\bin\Debug\Employee.Repository.pdb
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\bin\Debug\DataBaseHelper.dll
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\bin\Debug\DataBaseHelper.pdb
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\obj\Debug\Employee.Repository.csprojAssemblyReference.cache
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\obj\Debug\Employee.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\obj\Debug\Employee.Repository.csproj.CopyComplete
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\obj\Debug\Employee.Repository.dll
+C:\Users\gchok\source\repos\EmployeesSampleApp\Employee.Repository\obj\Debug\Employee.Repository.pdb

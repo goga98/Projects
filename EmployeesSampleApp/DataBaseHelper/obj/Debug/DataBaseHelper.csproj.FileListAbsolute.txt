@@ -1,0 +1,6 @@
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.CoreCompileInputs.cache
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Users\gchok\source\repos\EmployeesSampleApp\DataBaseHelper\obj\Debug\DataBaseHelper.csprojAssemblyReference.cache
