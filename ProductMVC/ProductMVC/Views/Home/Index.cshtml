@@ -1,0 +1,41 @@
+﻿@model Paging<ProductMVC.Models.ProductClass>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Here is your product list</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+ 
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductID) 
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductID">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ProductID">Delete</a>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.PreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.NextPage ? "disabled" : "";
+}
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex -1)"
+   class="btn btn-default @prevDisabled">Previous</a>
+
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex +1)"
+   class="btn btn-default @nextDisabled">Next</a>
